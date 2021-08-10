@@ -9,21 +9,21 @@
 ** Schedule: 
 *** Monday the 9th
  - Erin
-   - Campsite [0/2]
-     - [ ] Gathering [0/7]
-       - [ ] Tent in storage unit
-       - [ ] Styrofoam cooler
-       - [ ] Picnic basket clean and ready
-       - [ ] Power strip extension cord
-       - [ ] Lantern
-       - [ ] Propane heater
-       - [ ] Chargers
-	 - [ ] Phone
-	 - [ ] Computers
+   - Campsite [1/2]
+     - [X] Gathering [8/8]
+       - [X] Pots stainless steel
+       - [X] Styrofoam cooler
+       - [X] Picnic basket clean and ready
+       - [X] Lantern
+       - [X] Propane heater
+       - [X] Chargers
+	 - [X] Phone
+	 - [X] Computers
+       - [X] Power strip extension cord
+       - [X] Tent in storage unit
      - [ ] Buying
-       - [ ] Food stuff [0/4]
+       - [ ] Food stuff [0/3]
 	 - [ ] Wood & kindling
-	 - [ ] Pots stainless steel
 	 - [ ] Utensils stainless steel
 	 - [ ] Campfire food
 	   - [ ] Green juice
@@ -33,14 +33,15 @@
 	   - [ ] Water
 	   - [ ] Fruit
 	   - [ ] TBD Food
-       - [ ] Tent to buy or borrow
-       - [ ] Bedding
-	 - [ ] Pillows
-	 - [ ] Sleeping bags
-       - [ ] Propane canister
-       - [ ] Batteries
-       - [ ] Flashlights
-       - [ ] Folding chairs
+       - [ ] Other Stuff [0/6]
+	 - [ ] Tent to buy or borrow
+	 - [ ] Bedding
+	   - [ ] Pillows
+	   - [ ] Sleeping bags
+	 - [ ] Propane canister
+	 - [ ] Batteries
+	 - [ ] Flashlights
+	 - [ ] Folding chairs
  - Aelacia
    - [ ] Gather special supplies from Bellingham 
  - 12:50PM Mr. & Mrs. Grimes arrive
@@ -103,8 +104,8 @@
 
 ** TODO Erin [2/7]
  - [X] Van repairs appointment call
- - [ ] Invitations
-   - [ ] Email digital invitation copies
+ - [-] Invitations
+   - [X] Email digital invitation copies
    - [ ] Finish designing invitations 
    - [ ] Print invitations 
    - [ ] Send invitations
